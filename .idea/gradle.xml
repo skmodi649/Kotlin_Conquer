@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/collections/Balance By Currency" />
+            <option value="$PROJECT_DIR$/collections/Call a Millionaire" />
+            <option value="$PROJECT_DIR$/collections/Sum BigDecimals" />
+            <option value="$PROJECT_DIR$/collections/Total Wealth" />
+            <option value="$PROJECT_DIR$/collections/Wealthiest Client" />
+            <option value="$PROJECT_DIR$/functions/Deposit Money" />
+            <option value="$PROJECT_DIR$/functions/Deposit Money Ext" />
+            <option value="$PROJECT_DIR$/functions/Fraction Simplifying" />
+            <option value="$PROJECT_DIR$/functions/Plus Operator" />
+            <option value="$PROJECT_DIR$/functions/Retry" />
+            <option value="$PROJECT_DIR$/functions/Retry With Count" />
+            <option value="$PROJECT_DIR$/functions/Simulate Failure" />
+            <option value="$PROJECT_DIR$/functions/this is Kotlin" />
+            <option value="$PROJECT_DIR$/generics/Generic CensoredList" />
+            <option value="$PROJECT_DIR$/generics/Generic Retry" />
+            <option value="$PROJECT_DIR$/generics/Memoized Sequences" />
+            <option value="$PROJECT_DIR$/generics/Test Data Producer" />
+            <option value="$PROJECT_DIR$/intro/Convert to EUR" />
+            <option value="$PROJECT_DIR$/intro/Dynamic Conversion" />
+            <option value="$PROJECT_DIR$/intro/Dynamic Conversion Optimized" />
+            <option value="$PROJECT_DIR$/intro/Hello, Bob" />
+            <option value="$PROJECT_DIR$/intro/IBAN Validation" />
+            <option value="$PROJECT_DIR$/oop/Apply Interest" />
+            <option value="$PROJECT_DIR$/oop/Censored List" />
+            <option value="$PROJECT_DIR$/oop/Mask Passwords" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

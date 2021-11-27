@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: src/FractionSimplifying.kt
+  visible: true
+  placeholders:
+  - offset: 111
+    length: 6
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 111
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ZYPoffvVqKlKX3UBjjDfbkVAkCDvtehO/jAOmZbURbhscfGJmX0AAgrBdQ0MBhIWY4tHB42EeiClEDwvkVWI9NZsu8NxvpXMGa15gwWfqq0dqcjtDeGFVvAy7m+Ezu7E9BtcuOresO+HJUFzg5F+nbt4Sdv/1wtdTy1QRkMTvSzxW+6FGdcDAv0060iwcqSdVnwBdTyy7anNAqUbNAn5K3j9/a6+Ks9JXbd5jny9Q0rkt1UOh9LhGhqL2mbcthZhFg5sAezEnhRzibrrf1hczA==
+  encrypted_text: Wa6ElC5SxxluQB0Rn19wSX5ih7aqk+lbA2Qd3hM6Jywcro54nISnDKRlwkXUX1NqFi+CbZzhBnZMouxLZovVJwt4Msdr+Z1NJdz69MAotdUS7e3BoPo7RsB493dXwlAPpu5sod/haQcny9iPY5H/ZDiry6SLxhnuuL8I3Gv3hWSrYp1X91BFAiHXXLehWIxboT/Bx6cKw0bMmFri5bEmlMfix0SCVICcPLdNxNvSMBK1v+eqFU3dQefSJcJm0Jta
+  learner_created: false
+- name: test/FractionSimplifyingTest.kt
+  visible: true
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHkspqtrXhkvgETqwgK3clQxWqxHPhg5TU04NONFDDQnQRlHpoHEynug+LLcHImSQvvv3vhhMxuAGEe5oDxaiHZ5XV4WUs2EtwGEQkw1RJm7LOsSPe5taFPHWXeT317cItmKxKAff6gId9yRsChRZUap83W3tozFU3TsPgG4scOFpmVhWpLu770UwcaC68k38Ur59RkZFf1rXE6Cr65L79Y8e+QFk1Q23D9y/nW+58EO784CCyVxcLURk6oJ9lgmMaLMxH2KAzTct8uMogEcBPjlloL22p7mNq3b+TwmilhCiG1zoUgyi6q5ZasgzFh9d2UeCEXHRsSzBVtUvF9BG77wW+tJxRFI/mLxmxfFm5CpoJglyXH9LssJ4KOjad5N/RcsVbKulXV0H/oTTGnFhzDoJkTzded7inquOrvJbd3h4MzlXcpBnug3xOd54bhB8JSrqz9rI+XFsNmBlk4BUTirx9n8dxCXP5XD2uXQCDbTCZScHmvL86U6SfxV9Uhqg143fkw1zYoS2f/SOBjHZIFFF1TO8Uf7jGrseCu3LDovCY4q2wt0XUzb5IN0p1+K+4c0oPYG3Xgkqy06Gw1LH5NmsLddAMh3PSqD0nywg7cxLoLgrAmu/J3CoBXDDopwP8Au/LjQ3dtJmeyQOTk+vQaPyoJz+YoLvNWY4unuz3WG6mIget1jaSQfBlCEmPrJ2gMPQ=
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: src/MaskDelegate.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 22
+    placeholder_text: // your code goes here
+    initial_state:
+      length: 22
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: bV62pQjn8vBoF9eSoWhe4Y2pYHpf2q1gi3E7CsHVoH5gSKLixDwCaZxzwLAlpmMaFzaMGDatmUbFNoUi7pGsCC9KMYwqqpOhekZA6c77oABSnX8yW3AFyvr6KkSFJTo4eCZX1weVkK4vP82PZ6T3m/H7URSMaz97MAi9hPYYAxy0lw+CdMcniG9+1ov5ZJc+d6Ksn6YgKZe6f8xjmYh6zaWcbVY+rBQL42737zpQZsPeWRuk30nztTc5kXWeJEmLC1bvqkfJE6KZdfFcAwYVW8Vz/pNh2vc797Hrn21PgreBIbYgcOZpNlyKVa3fJsbKlE5+BX+rtLq0Nw+Cvd+UpSqTn8Rvti8uK8qU9ZZJuNr4dDx4Y1MxyOMobReOALHyiNlpjvrN6tEP/lz1GgEubKCGvlQ37Vm8DJzRxWOHPO9b23u+83Hf4mVrIXGDQtYW5VUDUX+jhaHFiaF0HloobQ==
+  encrypted_text: 5dC7Dglkj8DNFvO9vxLYPR2+SQy0IkFfdcJbzAqzzurqui29IeuA1OwSqN3BMXLF8o7EnK4Bn6qIx8BbKe8+dOT5hi4K6xq/q2KpmZUk6gt+Y+ouuRPfIbwXqvYybx3V1dWczE+FXvrB+CAaSc7+U5Cf36Dq1Kk5hDMhOiX9f8OAtF4NrniV1RswE3i19JT6qndk3Zq5EGS0B53kko33EPZito+1LJW57F0yJ6o+jgOpRtATlQDv4ggMDZP7ghtJFi/Fi38h+9K2bfnpkf6PJZU1AUskWkFgvveIiGB5afk=
+  learner_created: false
+- name: test/MaskDelegateTest.kt
+  visible: true
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nJbQJMkIq6jNfe9FYz1aEl0TNwrmOruTkdt2xqTRKlfBPdse6zKcjCW9BrzSUBVnPj/RsYpbvjW+Lmwm9KuEtQtRXNjdsxzohNXSSvHlpPVkdv43cZrzCmDoUyhiITZfElVLRfi8VIwX0mTm37AX5b1/RAlfH1JFYp+MQVLJoq34LkW8gkG7wj3ZpA333Jln3/GpjDkqszu/7rGHuv3G8pOjWf8yzGXX1gNVY7b0nQhrO2MndWJbaZhQFl/iEM1JikU71Q9S2Lw4k9W9+89XWLQsnLNw1HKewFmYMFQCefn1G6tPFfNobD7rQheofNO0zdtvlz4xbKVa+QPN+VUKpeEUYCLNhEHJe/b3MZoXU3aP/L3XEKk44hHOAVLbLdeIWNOqD47CL2Oq1RgcHweMZQHCPIbVi4v/d/5yAXC7BzZ0Limnhrej/Rvp7n2B182wXxsWZjAsEUzYy4cl2hc96He8f1iB7nOJWKG2tgjuazeNJEN1Olg+mmZu32wLggFMKQ==
+  learner_created: false
+status: Unchecked
+record: -1

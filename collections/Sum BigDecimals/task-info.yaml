@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: src/SumBigDecimals.kt
+  visible: true
+  placeholders:
+  - offset: 29
+    length: 6
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 29
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: ZhtFK3hRsNVISsDhnSe2Ad7JCLR/DYNNGBJnpJ5Q4m535qTixvmq5Tv8Q1btsh5GRyZdtbIznKKU9V4OnidqVXPJUV6QwCZP5gLRmEy91nL9Y4NA+kDW22gWSUN0EtSA
+  encrypted_text: hVyIr+mSpHl9w9r2cMI3Ws8DGMVeMoATyDX1Mk325AboWQwsoXkv1Hw/1UqYe3IYbIdG6duhSMdlejXgV/yCKqMONiUJUir26ywb/U4sMK/XEx7khiXPDj/gdEbE3cJNXEO/MdRj5Bp8V4yJtiyoeR4X/8focTvBJDQcZ2vx2O3my8AxT8xLUX86tYg40vBLTS3MkRBbfD6jTf7efekdf9rvfd7nbLqmou8tEgX/qBOP6JLhkjle1UUmHxLOSt/sZHbswm1Y4Hnr7zemij7Jv1aX7nZwtn7iAbwms5dUJMY=
+  learner_created: false
+- name: test/SumBigDecimalsTest.kt
+  visible: false
+  encrypted_text: hVyIr+mSpHl9w9r2cMI3WpPKJ+RvZcHXEPMXAn1cRuOCbZPEtPhqKc2xhyjnnJuqsJT+fUkYaNrAuMOlyXmfnu5jmPru2IUBZLlFlYTAtBZi64S3gVzHmRDeLxQlRAfsi8Fh+WYMv64CNy0GdQLij23NRl6kIum3kFAmpa8CpeUVFBk8hRav+GyUhzuoc++fI+uUYGDk71D2r4Wp7wCh7quX6Wl0nEwyQ0sZ9JTCydduoas6AQArGjZy8sYniJQDm62/SqnF8PEpBEkwZrBnmArK/kMH0/vsNaWd5XGZZKPOD81ruQNzxLfbR3HzGWm7ncCgi+YmXCvTANQXJqBAUd1E2QlI21q0n8kDe8pehr07jcKCllIZIxmSN19hDQhZJzpOTfRYrgzN19dV6C20XdxQKqv9UXsRs9V4v8QJgD/lpaeNVXgrr1b+dtlg2Qi/ZY8EcvzxbW24UtV4sHRrEYF3PTMqPGU1Rs2Lv0vUXdBGavDftOQl6MTzJ1ujPXXWQie8yfiKI1RYY7C72tq7DWkwukCEmMw+VxJHbEpGw0pvVNwc0f3FsjwkvEz/+aXpp+/ElWsjvfgncQcKGLHTIKde71p4INB/X+93BfJXEFJbAkLCfA0f0E1u/Agsuvb6
+  learner_created: false
+status: Unchecked
+record: -1

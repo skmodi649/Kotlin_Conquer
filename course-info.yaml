@@ -1,0 +1,31 @@
+type: marketplace
+title: '{ this is Kotlin }'
+language: English
+summary: |-
+  <p>Support exercises for <strong>{ this is Kotlin }</strong> course.</p>
+  <p><strong>{ this is Kotlin }</strong> is an introductory Kotlin course, so no previous Kotlin experience is required.
+  However, it's not an in introductory course in programming, so some programming experience is required.
+  The target audience is usually Java programmers that want to switch to Kotlin, but explicit Java knowledge is not a prerequisite.
+  </p><p>Please try to do the exercises after attending the corresponding lesson.
+  We do not recommend doing exercises in advance to keep the interest in the course fresh. The structure of the course is the following:</p>
+  <ol>
+    <li>Introducing Kotlin: high level overview of the Kotlin language; the next lessons will cover the same concepts in detail, and more.</li>
+    <li>Functions</li>
+    <li>Collections</li>
+    <li>OOP</li>
+    <li>Advanced Topics</li>
+    <li>Generics</li>
+    <li>Testing with Kotest</li>
+    <li>Coroutines</li>
+  </ol>
+  <p>Slides and code samples are available on <a href="https://github.com/this-is-kotlin">github</a>.</p>
+  <p>Please report any issues <a href="https://github.com/this-is-kotlin/exercises/issues">here</a>.</p>
+programming_language: Kotlin
+content:
+- intro
+- functions
+- collections
+- oop
+- generics
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/17708--this-is-kotlin-/reviews
