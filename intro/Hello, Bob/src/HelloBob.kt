@@ -1,3 +1,6 @@
 fun main(args: Array<String>) {
-//your code goes here
+if(args.size == 0)
+    System.out.println("Hello, World!");
+    else
+        System.out.println("Hello, Bob!");
 }

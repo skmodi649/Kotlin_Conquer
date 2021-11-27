@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":collections-Call_a_Millionaire" external.linked.project.path="$MODULE_DIR$/../../../../collections/Call a Millionaire" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="{_this_is_Kotlin_}" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../collections/Call a Millionaire">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../collections/Call a Millionaire/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../collections/Call a Millionaire/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../collections/Call a Millionaire/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
